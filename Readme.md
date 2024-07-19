@@ -35,10 +35,8 @@ The function utilizes `abi.encodePacked` to handle the agent data. This method i
 ### Impact
 - **Interpreting Dynamic Input Data**: The use of `abi.encodePacked` allows the function to handle flexible input data, making it adaptable to various registration scenarios. This adaptability is essential for accommodating different AI agents and improving the user experience.
 - **Efficiency in Processing Registrations**: By encoding the data parameters, the function can efficiently process complex registration instructions. This efficiency ensures that the registrations are executed quickly and correctly, maintaining the protocol's reliability.
-- **Enhancing Protocol Flexibility**: The ability to interpret encoded data dynamically contributes to the overall flexibility of the Fetch.ai protocol. This flexibility is a key feature that allows Fetch.ai to support a wide range of AI agents and applications.
-- **Contributing to Decentralized AI Integration**: The `registerAgent` function's capability to handle AI agent registrations, enforce data integrity, and manage storage constraints is fundamental to Fetch.ai's operation as a decentralized AI platform. It ensures that AI agents are registered under fair conditions, promoting trust and stability in the protocol.
 
-## Useful Links and References
+## References
 - **Fetch.ai Documentation**: [Fetch.ai Documentation](https://docs.fetch.ai/)
 - **FetchAIAgent on Etherscan**: [FetchAIAgent on Etherscan](https://etherscan.io/address/0x8400ac235ed4f139a3e05670a9a3c724e448129b#code)
 - **Solidity Documentation**: [Solidity Documentation](https://docs.soliditylang.org/)
