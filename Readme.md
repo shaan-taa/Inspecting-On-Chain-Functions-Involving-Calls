@@ -38,5 +38,4 @@ The function utilizes `abi.encodePacked` to handle the agent data. This method i
 
 ## References
 - **Fetch.ai Documentation**: [Fetch.ai Documentation](https://docs.fetch.ai/)
-- **FetchAIAgent on Etherscan**: [FetchAIAgent on Etherscan](https://etherscan.io/address/0x8400ac235ed4f139a3e05670a9a3c724e448129b#code)
 - **Solidity Documentation**: [Solidity Documentation](https://docs.soliditylang.org/)
